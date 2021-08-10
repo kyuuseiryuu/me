@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kyuuseiryuu/kyuuseiryuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuseiryuu)](https://github.com/kyuuseiryuu/me)
+
+<a href="https://github.com/kyuuseiryuu/me">
+  <img
+     align="center"
+     src="https://github-readme-stats.vercel.app/api?username=kyuuseiryuu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight"
+     />
+</a>
+
