@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/kyuuseiryuu/me">
   <img
        style="margin-top: 10px;"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuseiryuu&layout=compact&count_private=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuseiryuu"
        />
 </a>
 </div>
