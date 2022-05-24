@@ -14,26 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
+<div align="center">
+  <img
+     width="100%"
+     align="center"
+     src="https://github-readme-stats.vercel.app/api?username=kyuuseiryuu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"
+    />
+</div>
+
 ---
-<div align="left">
-<a href="https://github.com/kyuuseiryuu/me">
+<div align="center">
   <img
        style="margin-top: 10px;"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuseiryuu"
        />
-</a>
 </div>
 
 
----
 
-
-<div align="left">
-  <a href="https://github.com/kyuuseiryuu/me">
-  <img
-     align="center"
-     src="https://github-readme-stats.vercel.app/api?username=kyuuseiryuu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"
-     />
-
-</a>
-</div>
